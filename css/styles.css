@@ -1,0 +1,36 @@
+#header {
+  text-align: center;
+}
+
+#panel, #drip {
+  padding: 5px;
+  text-align: center;
+  background-color: #8cd6d6;
+  border: solid 1px #c3c3c3;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+
+#manual {
+  text-align: center;
+}
+
+#name1 {
+  width: 40%;
+}
+
+#name2 {
+  width: 40%;
+}
+
+label {
+  font-family: 'Playfair Display', serif;
+  font-family: 'Hind', sans-serif;
+}
+
+#one {
+  float: right;
+}
